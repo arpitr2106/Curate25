@@ -36,7 +36,7 @@ This project is built to reduce the technical barriers faced by non-technical us
 
 ## 🔗 GitHub Repository
 
-🔗 [Project Repository](https://github.com/ramdhankumar1425/Curate25)
+🔗 [Project Repository](https://github.com/arpitr2106/Curate25)
 
 ---
 
@@ -77,8 +77,8 @@ Ensure you have the following installed:
 
 1. _Clone the repository_
    sh
-   git clone https://github.com/ramdhankumar1425/Kriti25_ProductDev.git
-   cd Kriti25_ProductDev
+   git clone https://github.com/arpitr2106/Curate25.git
+   cd Curate25
 
 2. _Install Server Dependencies_
    sh
